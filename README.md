@@ -1,2 +1,1 @@
-# jc-backyard
-JustCoders Admin part
+# JustCoders Backyard (Admin part)
